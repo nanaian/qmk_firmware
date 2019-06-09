@@ -1,1 +1,1 @@
-![keymap](keymap.svg)
+![layout](layout.svg)
