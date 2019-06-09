@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+cd ../../../../
+make planck/rev6:alex:dfu-util
